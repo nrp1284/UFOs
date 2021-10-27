@@ -4,7 +4,9 @@
 
 ## Project Overview: 
 
-Webpage with dynamic tables allowing users to filter multiple criteria like city, state, country and shape.
+Thanks to research generously funded by W. Avy, a UFO-enthusiast and amateur ufologist, we can supplement our sky-searching with data analysis.
+
+Creating webpage with dynamic tables allowing users to filter multiple criteria like city, state, country and shape.
 
 ## Project Deliverables:
 
