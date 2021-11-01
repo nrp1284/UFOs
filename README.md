@@ -4,7 +4,7 @@
 
 ## Project Overview: 
 
-Thanks to research generously funded by W. Avy, a UFO-enthusiast and amateur ufologist, we can supplement our sky-searching with data analysis.
+Thanks to research generously funded by W. Avy, a UFO-enthusiast and amateur ufologist, Here is sky-searching with data analysis.
 
 Creating webpage with dynamic tables allowing users to filter multiple criteria like city, state, country and shape.
 
